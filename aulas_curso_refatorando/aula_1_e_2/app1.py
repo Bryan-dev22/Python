@@ -10,4 +10,4 @@ idade2 = "23"
 gosto_de2 = "enfermagem"
 
 print(nome1 + " tem " + idade1 + " anos e gosta de " + gosto_de1)
-print(f"A {nome2} tem {idade2} e gosta de {gosto_de2}") # Este é o método mais fácil!!
+print(f"A {nome2} tem {idade2} e gosta de {gosto_de2}") # Este é o método mais usado!!
